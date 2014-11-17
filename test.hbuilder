@@ -1,0 +1,5 @@
+  open_head
+  open_body
+  add_tag("from text file")
+  close_body
+  close_head
