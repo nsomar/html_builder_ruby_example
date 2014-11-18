@@ -1,5 +1,5 @@
-  open_head
-  open_body
-  add_tag("from text file")
-  close_body
-  close_head
+  add_head_open_tag
+  add_body_open_tag
+  add_tag("br")
+  add_body_close_tag
+  add_head_close_tag
